@@ -10,7 +10,7 @@ function main() {
 }
 
 function add(x, y) {
-  var sum = 0;
+  var sum = x + y;
   return sum;
 }
 
