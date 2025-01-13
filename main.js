@@ -15,5 +15,6 @@ function add(x, y) {
 }
 
 function multiply(x, y) {
-  //todo return product
+  var product = x * y;
+  return product;
 }
